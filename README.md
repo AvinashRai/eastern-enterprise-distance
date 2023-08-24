@@ -5,3 +5,6 @@ Steps To run this project on local systems
     php artisan serve
 3. Hit the URL in browser window
     http://127.0.0.1:8000/
+
+4. Main controller file is located as below
+        app/Http/Controllers/DistanceController.php
